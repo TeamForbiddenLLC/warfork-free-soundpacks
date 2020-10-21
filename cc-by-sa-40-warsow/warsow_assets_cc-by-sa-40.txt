@@ -1,0 +1,201 @@
+The files in /cc-by-sa-40-warsow/ are licensed as CC Attribution-ShareAlike 4.0. Unlike the other Free Soundpacks we did not create these. All sounds were created by (c) Warsow, Warsow, Team, and Chasseur de Bots.
+
+Learn more: 
+
+https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Note: We have removed all non-free (CC BY-ND 4.0) sounds. This includes:
+
+Directory of \sounds
+
+10/25/2015  07:27 AM    <DIR>          .
+10/25/2015  07:27 AM    <DIR>          ..
+10/25/2015  07:08 AM    <DIR>          ambient
+10/25/2015  07:16 AM    <DIR>          bomb
+10/25/2015  07:16 AM    <DIR>          ctftactics
+10/25/2015  07:26 AM    <DIR>          items
+03/05/2016  03:07 PM    <DIR>          menu
+03/05/2016  03:07 PM    <DIR>          misc
+10/25/2015  07:19 AM    <DIR>          movers
+10/25/2015  07:20 AM    <DIR>          players
+10/25/2015  07:32 AM    <DIR>          weapons
+10/25/2015  07:22 AM    <DIR>          world
+               0 File(s)              0 bytes
+
+ Directory of \sounds\ambient
+
+10/25/2015  07:08 AM    <DIR>          .
+10/25/2015  07:08 AM    <DIR>          ..
+04/30/2015  02:26 PM           100,286 ceilingfan.ogg
+               1 File(s)        100,286 bytes
+
+ Directory of \sounds\bomb
+
+10/25/2015  07:16 AM    <DIR>          .
+10/25/2015  07:16 AM    <DIR>          ..
+04/30/2015  02:26 PM             4,253 bombtimer.ogg
+               1 File(s)          4,253 bytes
+
+ Directory of \sounds\ctftactics
+
+10/25/2015  07:16 AM    <DIR>          .
+10/25/2015  07:16 AM    <DIR>          ..
+04/30/2015  02:26 PM            63,704 turret_pain01.wav
+               1 File(s)         63,704 bytes
+
+ Directory of \sounds\items
+
+10/25/2015  07:26 AM    <DIR>          .
+10/25/2015  07:26 AM    <DIR>          ..
+04/30/2015  02:26 PM             8,880 armor_green.ogg
+04/30/2015  02:26 PM            13,384 armor_red.ogg
+04/30/2015  02:26 PM             8,273 armor_shard.ogg
+04/30/2015  02:26 PM            10,455 armor_yellow.ogg
+04/30/2015  02:26 PM            10,490 health_25.ogg
+04/30/2015  02:26 PM             8,751 health_5.ogg
+04/30/2015  02:26 PM            11,459 health_50.ogg
+04/30/2015  02:26 PM            28,180 item_idle.ogg
+04/30/2015  02:26 PM             8,455 item_spawn.ogg
+04/30/2015  02:26 PM            22,145 megahealth.ogg
+04/30/2015  02:26 PM            24,363 regen_pickup.ogg
+04/30/2015  02:26 PM            40,438 regen_spawn.ogg
+              12 File(s)        195,273 bytes
+
+ Directory of \sounds\menu
+
+03/05/2016  03:07 PM    <DIR>          .
+03/05/2016  03:07 PM    <DIR>          ..
+10/03/2015  12:41 PM            41,494 back.wav
+10/03/2015  12:41 PM             6,738 mouseover.wav
+10/03/2015  12:41 PM            25,180 ok.wav
+               3 File(s)         73,412 bytes
+
+ Directory of \sounds\misc
+
+03/05/2016  03:07 PM    <DIR>          .
+03/05/2016  03:07 PM    <DIR>          ..
+04/30/2015  02:26 PM             6,672 chat.wav
+07/20/2015  02:53 PM            47,460 gibs_explosion.wav
+04/30/2015  02:26 PM             9,030 timer_bip_bip.wav
+04/30/2015  02:26 PM            18,050 timer_ploink.wav
+               4 File(s)         81,212 bytes
+
+ Directory of \sounds\movers
+
+10/25/2015  07:19 AM    <DIR>          .
+10/25/2015  07:19 AM    <DIR>          ..
+04/30/2015  02:26 PM            11,130 door_start.ogg
+04/30/2015  02:26 PM             8,635 door_start2.ogg
+04/30/2015  02:26 PM            10,739 door_stop.ogg
+04/30/2015  02:26 PM            18,703 elevator_move.ogg
+               4 File(s)         49,207 bytes
+
+ Directory of \sounds\players
+
+10/25/2015  07:20 AM    <DIR>          .
+10/25/2015  07:20 AM    <DIR>          ..
+10/25/2015  07:20 AM    <DIR>          bobot
+10/25/2015  07:20 AM    <DIR>          male
+               0 File(s)              0 bytes
+
+ Directory of \sounds\players\bobot
+
+10/25/2015  07:20 AM    <DIR>          .
+10/25/2015  07:20 AM    <DIR>          ..
+04/30/2015  02:26 PM             5,520 dash_1.ogg
+04/30/2015  02:26 PM             5,532 dash_2.ogg
+04/30/2015  02:26 PM             8,373 death.ogg
+04/30/2015  02:26 PM            16,702 drown.ogg
+04/30/2015  02:26 PM            31,866 falldeath.ogg
+04/30/2015  02:26 PM             7,795 fall_0.ogg
+04/30/2015  02:26 PM             7,250 fall_1.ogg
+04/30/2015  02:26 PM             7,453 fall_2.ogg
+04/30/2015  02:26 PM            14,912 gasp.ogg
+04/30/2015  02:26 PM             6,975 jump_1.ogg
+04/30/2015  02:26 PM             6,321 jump_2.ogg
+04/30/2015  02:26 PM             6,074 pain100.ogg
+04/30/2015  02:26 PM             9,566 pain25.ogg
+04/30/2015  02:26 PM             6,896 pain50.ogg
+04/30/2015  02:26 PM             6,480 pain75.ogg
+04/30/2015  02:26 PM             7,605 wj_1.ogg
+04/30/2015  02:26 PM             6,967 wj_2.ogg
+              17 File(s)        162,287 bytes
+
+ Directory of \sounds\players\male
+
+10/25/2015  07:20 AM    <DIR>          .
+10/25/2015  07:20 AM    <DIR>          ..
+04/30/2015  02:26 PM             6,311 dash_1.ogg
+04/30/2015  02:26 PM             6,583 dash_2.ogg
+04/30/2015  02:26 PM             9,681 death.ogg
+04/30/2015  02:26 PM            18,682 drown.ogg
+04/30/2015  02:26 PM            45,927 falldeath.ogg
+04/30/2015  02:26 PM             7,795 fall_0.ogg
+04/30/2015  02:26 PM             8,151 fall_1.ogg
+04/30/2015  02:26 PM             9,325 fall_2.ogg
+04/30/2015  02:26 PM            17,204 gasp.ogg
+04/30/2015  02:26 PM             7,574 jump_1.ogg
+04/30/2015  02:26 PM             7,229 jump_2.ogg
+04/30/2015  02:26 PM             7,122 pain100.ogg
+04/30/2015  02:26 PM            11,721 pain25.ogg
+04/30/2015  02:26 PM             7,937 pain50.ogg
+04/30/2015  02:26 PM             6,765 pain75.ogg
+04/30/2015  02:26 PM             8,906 wj_1.ogg
+04/30/2015  02:26 PM             8,835 wj_2.ogg
+              17 File(s)        195,748 bytes
+
+ Directory of \sounds\weapons
+
+10/25/2015  07:32 AM    <DIR>          .
+10/25/2015  07:32 AM    <DIR>          ..
+07/22/2015  03:52 PM             8,105 bladegun_strong_fire.ogg
+04/30/2015  02:26 PM            10,438 bladegun_strong_hit_1.ogg
+04/30/2015  02:26 PM            11,041 bladegun_strong_hit_2.ogg
+04/30/2015  02:26 PM            11,782 bladegun_strong_hit_3.ogg
+04/30/2015  02:26 PM             7,682 blade_hitflsh1.ogg
+04/30/2015  02:26 PM             7,691 blade_hitflsh2.ogg
+04/30/2015  02:26 PM             7,468 blade_hitflsh3.ogg
+04/30/2015  02:26 PM             7,815 blade_hitwall1.ogg
+04/30/2015  02:26 PM             8,148 blade_hitwall2.ogg
+04/30/2015  02:26 PM             8,583 blade_strike1.ogg
+04/30/2015  02:26 PM             8,500 blade_strike2.ogg
+04/30/2015  02:26 PM             7,501 blade_strike3.ogg
+07/27/2015  03:36 PM             7,815 electrobolt_hit.ogg
+04/30/2015  02:26 PM            17,115 electrobolt_hum.ogg
+04/30/2015  02:26 PM            16,279 gren_strong_explosion1.ogg
+04/30/2015  02:26 PM            13,998 gren_strong_explosion2.ogg
+07/27/2015  03:36 PM             5,755 laser_hit0.ogg
+07/27/2015  03:36 PM             5,773 laser_hit1.ogg
+07/27/2015  03:36 PM             5,784 laser_hit2.ogg
+04/30/2015  02:26 PM             8,490 plasmagun_strong_explosion.ogg
+04/30/2015  02:26 PM             8,411 ric1.ogg
+04/30/2015  02:26 PM             8,606 ric2.ogg
+04/30/2015  02:26 PM             8,380 riotgun_strong_hit.ogg
+04/30/2015  02:26 PM            13,185 rocket_fire_strong.ogg
+06/06/2015  07:28 PM            17,984 rocket_fly_strong.ogg
+06/16/2015  04:22 PM            15,615 rocket_strong_explosion.ogg
+04/30/2015  02:26 PM             7,118 weapon_switch.ogg
+              27 File(s)        265,062 bytes
+
+ Directory of \sounds\world
+
+10/25/2015  07:22 AM    <DIR>          .
+10/25/2015  07:22 AM    <DIR>          ..
+04/30/2015  02:26 PM            65,250 dong.wav
+04/30/2015  02:26 PM             7,269 ft_step1.ogg
+04/30/2015  02:26 PM             6,838 ft_step2.ogg
+04/30/2015  02:26 PM             7,375 ft_step3.ogg
+04/30/2015  02:26 PM             7,379 ft_step_met1.ogg
+04/30/2015  02:26 PM             6,224 ft_step_met2.ogg
+04/30/2015  02:26 PM             7,090 ft_step_met3.ogg
+04/30/2015  02:26 PM             6,794 ft_walljump_failed.ogg
+04/30/2015  02:26 PM            12,684 jumppad.ogg
+04/30/2015  02:26 PM            16,652 launchpad.ogg
+04/30/2015  02:26 PM            11,163 lava_in.ogg
+04/30/2015  02:26 PM            11,741 lava_out.ogg
+10/03/2015  12:41 PM            12,465 player_respawn.ogg
+10/03/2015  12:41 PM            12,465 tele_in.ogg
+04/30/2015  02:26 PM            35,650 underlava.ogg
+04/30/2015  02:26 PM            31,085 underwater.ogg
+              16 File(s)        258,124 bytes

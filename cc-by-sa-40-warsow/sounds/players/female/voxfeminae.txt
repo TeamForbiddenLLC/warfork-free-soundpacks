@@ -1,0 +1,26 @@
+The sounds inside directory are property of HellChick, and
+are freely available at http://www.planetquake.com/voxfeminae
+
+Thnx go to HellChick for being so generous with her hard work!
+
+warsow name = voxfeminae name
+drown = drown_a
+jump_1 = jump_a
+jump_2 = jump_c
+wj_1 = fall_a
+wj_2 = fall_b
+dash_1 = jump_c
+dash_2 = jump_b
+pain25 = pain_25_d
+pain50 = pain_50_a
+pain75 = pain_75_a
+pain100 = pain_100_b
+fall_1 = fall_c
+fall_2 = fall_e
+falldeath = falling_b
+death = death_c
+
+
+Notes:
+fall_0.wav isn't really sexed. It's a copy of the sound used at male
+gasp.wav is a male sound :/
