@@ -1,5 +1,5 @@
 # cc0
-Creative Commons — CC0 1.0 Universal (Public Domain) by Caine - Team Forbidden LLC.
+Creative Commons — CC0 1.0 Universal (Public Domain) by Caine and MaxCarnage (\trailer\MaxCarnage_cc0_processed)- Team Forbidden LLC.
 /warfork-free-soundpacks/cc0
 
 # ccsa3
